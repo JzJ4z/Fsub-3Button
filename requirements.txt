@@ -1,0 +1,10 @@
+pyrogram
+TgCrypto
+Pyromod
+psutil
+aiohttp
+aiofiles
+python-dotenv
+sqlalchemy~=1.3.23
+psycopg2-binary
+feedparser

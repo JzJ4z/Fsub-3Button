@@ -1,0 +1,88 @@
+{
+    "name": "File-Sharing 3 Fsub",
+    "description": " Bot File Sharing dengan 3 Force  Subs berguna untuk menyimpan file dan mengubahnya menjadi sebuah link khusus",
+    "keywords": [
+        "telegram",
+        "file",
+        "sharing"
+    ],
+    "repository": "https://github.com/Mythia-X/SemogaSukses",
+    "logo": "https://i.ibb.co/TbgRB3b/20220324-004130.jpg",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
+            "value": ""
+        },
+        "OWNER_USERNAME": {
+            "description": "Masukan Username Telegram untuk Owner BOT [ tanpa @ ]",
+            "value": "Xyr33n"
+        },
+        "OWNER_ID": {
+            "description": "Masukan User ID Telegram untuk Owner BOT",
+            "value": "1978038952"
+        },
+        "ADMINS": {
+            "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Dapatkan APP ID di web my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Dapatkan API HASH di web my.telegram.org",
+            "value": ""
+        },
+        "CHANNEL_ID": {
+            "description": "Masukan ID Channel Untuk [Channel Database]",
+            "value": "-100"
+        },
+        "FORCE_SUB_SATU": {
+            "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
+            "value": "-100"
+        },
+        "FORCE_SUB_DUA": {
+            "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
+            "value": "-100"
+        },
+        "FORCE_SUB_TIGA": {
+            "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
+            "value": "-100"
+        },
+          "CAPTION_SATU": {
+            "description": "Masukkan caption untuk data FORCE_SUB_SATU Contoh Group silahkan isi dengan: JOIN GROUP-1 atau JOIN CHANNEL-1",
+            "value": "JOIN GROUP-1"
+        },
+        "CAPTION_DUA": {
+            "description": "Masukkan caption untuk data FORCE_SUB_DUA Contoh Group silahkan isi dengan: JOIN GROUP-2 atau JOIN CHANNEL-2",
+            "value": "JOIN GROUP-2"
+        },
+        "CAPTION_TIGA": {
+            "description": "Masukkan caption untuk data FORCE_SUB_TIGA Contoh Channel silahkan isi dengan: JOIN CHANNEL atau JOIN-GROU",
+            "value": "JOIN CHANNEL"
+        },
+        "START_MESSAGE": {
+            "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
+            "value": "<b>Hai {mention}\n\nSaya adalah bot file sharing yang berfungi untuk membagikan kalian sebuah konten 18+ yang dapat diakses melalui link khusus.\n\nTekan /help untuk melihat bantuan</b>"
+        },
+        "FORCE_SUB_MESSAGE": {
+            "description": "Pesan Wajib Subscribe channel/group bot, Gunakan Format parsemode HTML",
+            "value": "<b>Hai {mention}\n\nKamu Wajib join channel atau group dibawah ini untuk dapat mengakses file\n\nSetelah bergabung di Channel/Group Dibawah silahkan tekan RELOAD FILE</b>"
+        }
+    },
+    "addons": [{
+        "plan": "heroku-postgresql",
+        "options": {
+            "version": "12"
+        }
+    }],
+    "buildpacks": [{
+        "url": "heroku/python"
+    }],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
