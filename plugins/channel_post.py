@@ -75,7 +75,7 @@ async def new_post(client: Client, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "🔁 Bagikan Link", url=f"https://telegram.me/share/url?url={link}"
+                    "🔁 Share Link", url=f"https://telegram.me/share/url?url={link}"
                 )
             ]
         ]
