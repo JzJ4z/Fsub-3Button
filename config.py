@@ -34,9 +34,9 @@ FORCE_SUB_SATU = int(os.environ.get("FORCE_SUB_SATU", "0"))
 FORCE_SUB_DUA = int(os.environ.get("FORCE_SUB_DUA", "0"))
 FORCE_SUB_TIGA = int(os.environ.get("FORCE_SUB_TIGA", "0"))
 
-CAPTION_SATU = os.environ.get("CAPTION_SATU", "JOIN GROUP-1"))
-CAPTION_DUA = os.environ.get("CAPTION_DUA", "JOIN GROUP-2"))
-CAPTION_TIGA = os.environ.get("CAPTION_TIGA", "JOIN CHANNEL"))
+CAPTION_SATU = os.environ.get("CAPTION_SATU", "JOIN GROUP-1")
+CAPTION_DUA = os.environ.get("CAPTION_DUA", "JOIN GROUP-2")
+CAPTION_TIGA = os.environ.get("CAPTION_TIGA", "JOIN CHANNEL")
 
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
