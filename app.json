@@ -15,11 +15,11 @@
         },
         "OWNER_USERNAME": {
             "description": "Masukan Username Telegram untuk Owner BOT [ tanpa @ ]",
-            "value": "Xyr33n"
+            "value": "zioassistant"
         },
         "OWNER_ID": {
             "description": "Masukan User ID Telegram untuk Owner BOT",
-            "value": "1978038952"
+            "value": "5519899050"
         },
         "ADMINS": {
             "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
