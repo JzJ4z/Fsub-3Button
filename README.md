@@ -42,7 +42,7 @@ root@user:~$ python3 main.py
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xred01/3sharing)</br>
+[Deploy](https://heroku.com/deploy?template=https://github.com/xred01/3sharing)
 
 
 ### Credits
