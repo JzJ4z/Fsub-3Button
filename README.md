@@ -2,7 +2,7 @@
     File Sharing Bot   
 </h1>
 
-<img align="center" fit="fill" alt="IMG" src="https://i.ibb.co/TbgRB3b/20220324-004130.jpg"/>
+<img align="center" fit="fill" alt="IMG" src="https://telegra.ph/file/1d05881b050d03fc73cff.jpg">
 
 <h3 align="center"> 
     Telegram Bot File Sharing dengan 3 Force Subs Channel/Group
@@ -18,8 +18,8 @@ debian@user:~$ sudo apt update && sudo apt upgrade -y
 debian@user:~$ sudo apt install git -y && sudo apt install screen -y
 debian@user:~$ screen -R BotFiles
 debian@user:~$ sudo apt install python3-pip
-debian@user:~$ git clone https://github.com/Xyren-1140/Mahasiswa-Ui
-debian@user:~$ cd Mahasiswa-Ui
+debian@user:~$ git clone https://github.com/xred/3sharing
+debian@user:~$ cd 3sharing
 debian@user~$ pip3 install -r requirements.txt
 debian@user:~$ cp contoh_config.env config.env
 
@@ -40,7 +40,7 @@ root@user:~$ python3 main.py
 <h1>
     <p align="center">
         <a href="https://github.com/xred01/3-nyawa">
-            <[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+            <img="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
         </a>
     </p>
