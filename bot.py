@@ -100,7 +100,7 @@ class Bot(Client):
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BOT TELAH AKTIF! 🔥]\n\nBOT Dibuat oleh @{OWNER_USERNAME}\nJika terjadi suatu kesalahan atau eror kamu bisa bertanya ke group https://t.me/shakeinsayang"
+            f"[🔥 BOT TELAH AKTIF! 🔥]\n\nBOT Dibuat oleh @{OWNER_USERNAME}\nJika terjadi suatu kesalahan atau eror kamu bisa bertanya ke owner https://t.me/zioassistant"
         )
         self.username = usr_bot_me.username
 
