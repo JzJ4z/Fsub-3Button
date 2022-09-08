@@ -6,8 +6,8 @@
         "file",
         "sharing"
     ],
-    "repository": "https://github.com/xred01/3-nyawa",
-    "logo": "https://i.ibb.co/TbgRB3b/20220324-004130.jpg",
+    "repository": "https://github.com/xred01/3sharing",
+    "logo": "https://telegra.ph/file/1d05881b050d03fc73cff.jpg"
     "env": {
         "BOT_TOKEN": {
             "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
         },
         "OWNER_USERNAME": {
             "description": "Masukan Username Telegram untuk Owner BOT [ tanpa @ ]",
-            "value": "Xyr33n"
+            "value": "zioassistant"
         },
         "OWNER_ID": {
             "description": "Masukan User ID Telegram untuk Owner BOT",
-            "value": "1978038952"
+            "value": "5519899050"
         },
         "ADMINS": {
             "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
