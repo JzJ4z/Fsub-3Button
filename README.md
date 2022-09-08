@@ -40,9 +40,9 @@ root@user:~$ python3 main.py
 <h1>
 
 
-## 🛡 Installation
-### Deploy on Heroku
-[Deploy](https://heroku.com/deploy?template=https://github.com/xred01/3sharing)
+
+## Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
 ### Credits
