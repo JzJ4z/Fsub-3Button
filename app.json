@@ -1,13 +1,13 @@
 {
     "name": "File-Sharing 3 Fsub",
     "description": " Bot File Sharing dengan 3 Force  Subs berguna untuk menyimpan file dan mengubahnya menjadi sebuah link khusus",
-    "stack": "heroku-22"
     "keywords": [
         "telegram",
         "file",
         "sharing"
     ],
-    "logo": "https://telegra.ph/file/1d05881b050d03fc73cff.jpg"
+    "repository": "https://github.com/Mythia-X/SemogaSukses",
+    "logo": "https://i.ibb.co/TbgRB3b/20220324-004130.jpg",
     "env": {
         "BOT_TOKEN": {
             "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
         },
         "OWNER_USERNAME": {
             "description": "Masukan Username Telegram untuk Owner BOT [ tanpa @ ]",
-            "value": "zioassistant"
+            "value": "Xyr33n"
         },
         "OWNER_ID": {
             "description": "Masukan User ID Telegram untuk Owner BOT",
-            "value": "5519899050"
+            "value": "1978038952"
         },
         "ADMINS": {
             "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
