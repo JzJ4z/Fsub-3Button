@@ -38,13 +38,11 @@ root@user:~$ python3 main.py
 
 
 <h1>
-    <p align="center">
-        <a href="https://github.com/xred01/3-nyawa">
-            <img="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
-        </a>
-    </p>
-</h1>
+
+## 🛡 Installation
+### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
 ### Credits
