@@ -39,8 +39,9 @@ root@user:~$ python3 main.py
 
 <h1>
     <p align="center">
-        <a href="https://github.com/Mythia-X/Mahasiswa-Ui">
-            <img src=https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+        <a href="https://github.com/xred01/3-nyawa">
+            <[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
         </a>
     </p>
 </h1>
