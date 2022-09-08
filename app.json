@@ -7,7 +7,6 @@
         "file",
         "sharing"
     ],
-    "repository": "https://github.com/xred01/3sharing",
     "logo": "https://telegra.ph/file/1d05881b050d03fc73cff.jpg"
     "env": {
         "BOT_TOKEN": {
