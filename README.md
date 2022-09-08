@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    File Sharing Bot   
+    3 Sharing  
 </h1>
 
 <img align="center" fit="fill" alt="IMG" src="https://telegra.ph/file/1d05881b050d03fc73cff.jpg">
@@ -42,7 +42,7 @@ root@user:~$ python3 main.py
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xred01/3sharing)</br>
 
 
 ### Credits
