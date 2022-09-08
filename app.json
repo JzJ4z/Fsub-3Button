@@ -1,6 +1,7 @@
 {
     "name": "File-Sharing 3 Fsub",
     "description": " Bot File Sharing dengan 3 Force  Subs berguna untuk menyimpan file dan mengubahnya menjadi sebuah link khusus",
+    "stack": "heroku-22"
     "keywords": [
         "telegram",
         "file",
