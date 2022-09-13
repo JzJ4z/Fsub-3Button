@@ -18,7 +18,7 @@ debian@user:~$ sudo apt update && sudo apt upgrade -y
 debian@user:~$ sudo apt install git -y && sudo apt install screen -y
 debian@user:~$ screen -R BotFiles
 debian@user:~$ sudo apt install python3-pip
-debian@user:~$ git clone https://github.com/xred/3sharing
+debian@user:~$ git clone https://github.com/xred01/3sharing
 debian@user:~$ cd 3sharing
 debian@user~$ pip3 install -r requirements.txt
 debian@user:~$ cp contoh_config.env config.env
