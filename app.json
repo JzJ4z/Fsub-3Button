@@ -7,7 +7,7 @@
         "sharing"
     ],
     "repository": "https://github.com/Mythia-X/SemogaSukses",
-    "logo": "https://telegra.ph/file/1d05881b050d03fc73cff.jpg",
+    "logo": "https://parboaboa.com/data/foto_sedang/gojo-satoru.webp",
     "env": {
         "BOT_TOKEN": {
             "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
         },
         "OWNER_USERNAME": {
             "description": "Masukan Username Telegram untuk Owner BOT [ tanpa @ ]",
-            "value": "zioassistant"
+            "value": "Contoh"
         },
         "OWNER_ID": {
             "description": "Masukan User ID Telegram untuk Owner BOT",
-            "value": "5519899050"
+            "value": "contoh"
         },
         "ADMINS": {
             "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
