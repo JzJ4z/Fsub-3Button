@@ -10,29 +10,6 @@
 
 
 <h2 align="center"> 
-  Deploy Bot Di Virtual Private Server (VPS) 
-</h2>
-
-```console
-debian@user:~$ sudo apt update && sudo apt upgrade -y
-debian@user:~$ sudo apt install git -y && sudo apt install screen -y
-debian@user:~$ screen -R BotFiles
-debian@user:~$ sudo apt install python3-pip
-debian@user:~$ git clone https://github.com/xred01/3sharing
-debian@user:~$ cd 3sharing
-debian@user~$ pip3 install -r requirements.txt
-debian@user:~$ cp contoh_config.env config.env
-
-# <isi nilai yang ada di file config.env dengan cara nano config.env di terminal>
-# <Setelah semua nilai terisi silahkan save file dengan cara ctrl+s lalu ctrl+x>
-
-root@user:~$ python3 main.py
-
-#Apabila Bot Berhasil diaktifkan Silahkan Close Screen dengan cara menekan ctrl+ad
-```
- 
-
-<h2 align="center"> 
    Deploy Bot Di Heroku
 </h2>
 
