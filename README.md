@@ -8,16 +8,6 @@
     Telegram Bot File Sharing dengan 3 Force Subs Channel/Group
 </h3>
 
-
-<h2 align="center"> 
-   Deploy Bot Di Heroku
-</h2>
-
-
-<h1>
-
-
-
 ## Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JzJ4z/Fsub-3Button)</br>
 
