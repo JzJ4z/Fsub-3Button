@@ -8,8 +8,8 @@ debian@user:~$ sudo apt update && sudo apt upgrade -y
 debian@user:~$ sudo apt install git -y && sudo apt install screen -y
 debian@user:~$ screen -R BotFiles
 debian@user:~$ sudo apt install python3-pip
-debian@user:~$ git clone https://github.com/Xyren-1140/Mahasiswa-Ui
-debian@user:~$ cd Mahasiswa-Ui
+debian@user:~$ git clone https://github.com/JzJ4z/Fsub-3Button
+debian@user:~$ cd Fsub-3Button
 debian@user~$ pip3 install -r requirements.txt
 debian@user:~$ cp contoh_config.env config.env
 
